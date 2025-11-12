@@ -1,0 +1,19 @@
+Project Euler Solutions (Python)
+This repository contains my Python solutions to various Project Euler problems: a collection of challenging mathematical and computational 
+puzzles designed to sharpen your problem-solving and programming skills. Visit https://projecteuler.net/ to see the complete list of problems. 
+
+
+About Project Euler
+“Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics and computer programming.”
+Each problem combines mathematical insight with efficient algorithm design, often requiring creative approaches to handle large computations.
+
+
+Goals
+- Strengthen understanding of mathematics and algorithmic logic
+- Practice clean, efficient, and readable Python code
+- Explore different techniques (iteration, recursion, etc.)
+- Build consistency through continuous problem-solving
+
+
+Repository structure 
+Each file corresponds to a specific problem on projecteuler.net/archives
